@@ -80,8 +80,6 @@ based on the latest tax brackets and formulas.
 
 Example outputs:
 
-![A screenshot of a computer program Description automatically
-generated](media/image1.png){width="6.5in" height="3.890277777777778in"}
+![output1](picture1.png)
 
-![A screenshot of a computer program Description automatically
-generated](media/image2.png){width="6.5in" height="4.297916666666667in"}
+![output2](picture2.png)
