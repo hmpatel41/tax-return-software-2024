@@ -80,6 +80,6 @@ based on the latest tax brackets and formulas.
 
 Example outputs:
 
-![output1](picture1.png)
+![output1](Picture1.png)
 
-![output2](picture2.png)
+![output2](Picture2.png)
